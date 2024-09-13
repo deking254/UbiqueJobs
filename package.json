@@ -1,0 +1,22 @@
+{
+  "name": "ubiquejobs",
+  "version": "1.0.0",
+  "description": "A simple job board",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "UbiqueJobs"
+  },
+  "keywords": [
+    "jobs"
+  ],
+  "author": "Dennis Ngetich",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
